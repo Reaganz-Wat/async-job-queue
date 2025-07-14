@@ -1,0 +1,12 @@
+2025-07-14 23:57:47 [INFO] Started function printName, args=('Watmon Reagan',), kwargs={}2025-07-15 00:15:22 [INFO] Started function printName, args=('Watmon Reagan',), kwargs={}
+2025-07-15 00:15:22 [INFO] Function printName finished and gave output of Watmon Reagan
+2025-07-15 00:15:25 [INFO] Started function printName, args=('Watmon Reagan',), kwargs={}
+2025-07-15 00:15:25 [INFO] Function printName finished and gave output of Watmon Reagan
+2025-07-15 00:17:57 [INFO] Started function printName, args=('Watmon Reagan',), kwargs={}
+2025-07-15 00:17:57 [ERROR] Function printName got error: Raised an intentional error
+2025-07-15 00:18:35 [INFO] Started function printName, args=('Watmon Reagan',), kwargs={}
+2025-07-15 00:18:35 [ERROR] Function printName got error: Raised an intentional error
+2025-07-15 00:18:37 [INFO] Started function printName, args=('Watmon Reagan',), kwargs={}
+2025-07-15 00:18:37 [ERROR] Function printName got error: Raised an intentional error
+2025-07-15 00:20:48 [INFO] Started function printName, args=('Watmon Reagan',), kwargs={}
+2025-07-15 00:20:48 [ERROR] Function printName got error: Raised an intentional error
