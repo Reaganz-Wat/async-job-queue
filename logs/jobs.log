@@ -10,3 +10,39 @@
 2025-07-15 00:18:37 [ERROR] Function printName got error: Raised an intentional error
 2025-07-15 00:20:48 [INFO] Started function printName, args=('Watmon Reagan',), kwargs={}
 2025-07-15 00:20:48 [ERROR] Function printName got error: Raised an intentional error
+2025-07-15 23:18:07 [INFO] Started function printName, args=('Watmon Reagan',), kwargs={}
+2025-07-15 23:18:07 [ERROR] Function printName got error: Raised an intentional error
+2025-07-15 23:21:39 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}
+2025-07-15 23:21:40 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}
+2025-07-15 23:21:41 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}
+2025-07-15 23:21:42 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}
+2025-07-15 23:21:43 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}
+2025-07-15 23:24:44 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}, retrying attempts...0
+2025-07-15 23:24:45 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}, retrying attempts...1
+2025-07-15 23:24:46 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}, retrying attempts...2
+2025-07-15 23:24:47 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}, retrying attempts...3
+2025-07-15 23:24:48 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}, retrying attempts...4
+2025-07-15 23:25:13 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}, retrying attempts...1
+2025-07-15 23:25:14 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}, retrying attempts...2
+2025-07-15 23:25:15 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}, retrying attempts...3
+2025-07-15 23:25:16 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}, retrying attempts...4
+2025-07-15 23:25:17 [ERROR] Function TrySomethingNew, Error=This is the error, args={}, kwargs={}, retrying attempts...5
+2025-07-15 23:26:07 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...1
+2025-07-15 23:26:08 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...2
+2025-07-15 23:26:09 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...3
+2025-07-15 23:26:10 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...4
+2025-07-15 23:26:11 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...5
+2025-07-15 23:26:23 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...1
+2025-07-15 23:26:26 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...2
+2025-07-15 23:26:29 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...3
+2025-07-15 23:26:32 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...4
+2025-07-15 23:26:35 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...5
+2025-07-15 23:26:38 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...6
+2025-07-15 23:27:44 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...1
+2025-07-15 23:28:47 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...1
+2025-07-15 23:28:50 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...2
+2025-07-15 23:28:53 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...3
+2025-07-15 23:28:56 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...4
+2025-07-15 23:29:36 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...1
+2025-07-15 23:29:39 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...2
+2025-07-15 23:31:38 [ERROR] Function TrySomethingNew, Error=Watmon Reagan Nyero, args={}, kwargs={}, retrying attempts...1

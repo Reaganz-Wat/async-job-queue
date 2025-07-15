@@ -4,6 +4,7 @@ import time, datetime
 
 LOG_FILE = "../logs/jobs.log"
 
+# This has setup global things
 logging.basicConfig(
     filename=LOG_FILE,
     level=logging.INFO,
@@ -11,17 +12,19 @@ logging.basicConfig(
     datefmt="%Y-%m-%d %H:%M:%S"
 )
 
-def retry(times = 4):
+def retry(max_retry = 4, delay_time = 1):
     def decorator(func):
         def wrapper(*args, **kwargs):
-            results = None
-            try:
-                results = func(*args, **kwargs)
-            except Exception as e:
-                # retry from here
-                for time in range(times):
-                    results = func(*args, **kwargs)
-            return results
+            attemps = 0
+            while attemps < max_retry:
+                try:
+                    return func(*args, **kwargs)
+                except Exception as e:
+                    print(f"Function {func.__name__}, Error={e}, args={kwargs}, kwargs={kwargs}, retrying attemps...{attemps + 1}")
+                    logging.error(f"Function {func.__name__}, Error={e}, args={kwargs}, kwargs={kwargs}, retrying attempts...{attemps + 1}")
+                    attemps += 1
+                    time.sleep(delay_time)
+            return
         return wrapper
     return decorator
 
